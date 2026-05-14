@@ -1,7 +1,8 @@
-langchain_community
-pymupdf
-langchain_text_splitters
-langchain_openai
-chromadb
 streamlit
-python-dotenv
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+pymupdf
+sentence-transformers
+huggingface-hub
